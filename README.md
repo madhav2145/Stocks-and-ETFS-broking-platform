@@ -194,11 +194,11 @@ Notes:
 
 > Images are under `assets/images/`.
 
-![Explore](assets/images/screenshot_explore.png)
+![Explore](assets/images/screenshot_explore.jpg)
 
-![Details](assets/images/screenshot_details.png)
+![Details](assets/images/screenshot_details.jpg)
 
-![Watchlist](assets/images/screenshot_watchlist.png)
+![Watchlist](assets/images/screenshot_watchlist.jpg)
 
 
 ## Troubleshooting & notes
