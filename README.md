@@ -179,6 +179,28 @@ Notes:
 - Update `app.json` identifiers before publishing. Android package: `com.madhav222.Groww_assignment`.
 
 
+
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/screenshot_explore.jpg" alt="Explore" width="250"/><br/>
+      <b>Explore</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/screenshot_details.jpg" alt="Details" width="250"/><br/>
+      <b>Details</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/screenshot_watchlist.jpg" alt="Watchlist" width="250"/><br/>
+      <b>Watchlist</b>
+    </td>
+  </tr>
+</table>
+
+
 ## Demo video
 
 - Watch on Google Drive: https://drive.google.com/file/d/1f7WD8S13kN3fqbKB-erU-UaoHI-wSTGw/view?usp=sharing
@@ -188,17 +210,6 @@ Notes:
 
 - Android APK (Google Drive): https://drive.google.com/file/d/1ruu94yaoNVRuv2JaYrLH2WHe37SaNovv/view?usp=sharing
 - Note: If Drive requests access, ensure the link is shared publicly or request access from the owner.
-
-
-## Screenshots
-
-> Images are under `assets/images/`.
-
-![Explore](assets/images/screenshot_explore.jpg)
-
-![Details](assets/images/screenshot_details.jpg)
-
-![Watchlist](assets/images/screenshot_watchlist.jpg)
 
 
 ## Troubleshooting & notes
